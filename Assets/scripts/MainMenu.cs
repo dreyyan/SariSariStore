@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class MainMenu : MonoBehaviour
 {
+    // METHODS
     public void PlayGame()
     {
         // Load the game scene
