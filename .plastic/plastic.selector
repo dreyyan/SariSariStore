@@ -1,0 +1,4 @@
+repository "BantayBaligyaSariSariStore/BantayBaligyaSariSariStore@20066395848944@cloud"
+  path "/"
+    br "/main"
+    co "/main"
