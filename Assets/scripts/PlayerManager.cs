@@ -2,11 +2,10 @@ using UnityEngine;
 
 public class PlayerManager : MonoBehaviour
 {
-    // REFERENCES
+    // Singleton
     public static PlayerManager Instance;
 
     // PLAYER DATA
-    // Player
     public string PlayerName;
     public string SelectedCharacter; // "Boy" or "Girl"
 
@@ -24,13 +23,22 @@ public class PlayerManager : MonoBehaviour
     // METHODS
     void Awake()
     {
-        if (Instance == null) Instance = this;
-        else Destroy(gameObject);
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject); // <-- survives scene loads
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
     public void AddCoins(int amount)
     {
         Coins += amount;
-        GameManager.Instance.TotalCoinsCollected += amount;
+
+        if (GameManager.Instance != null) // avoid null crash
+            GameManager.Instance.TotalCoinsCollected += amount;
     }
 }

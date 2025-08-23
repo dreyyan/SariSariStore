@@ -17,6 +17,13 @@ public class MainMenu : MonoBehaviour
         UnityEngine.SceneManagement.SceneManager.LoadScene("OptionsMenu");
     }
 
+    public void CreditsMenu()
+    {
+        // Open the settings menu
+        Debug.Log("Open Credits");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("CreditsMenu");
+    }
+
     public void QuitGame()
     {
         // Quit the application
