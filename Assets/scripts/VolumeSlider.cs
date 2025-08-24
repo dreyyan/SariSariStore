@@ -49,6 +49,6 @@ public class VolumeSlider : MonoBehaviour, IPointerUpHandler
 
     void UpdateText(float value)
     {
-        volumeText.text = (value * 100f).ToString("F0") + "%";
+        volumeText.text = (value * 100f).ToString("F0") + " %";
     }
 }

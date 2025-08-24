@@ -2,17 +2,19 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using TMPro;
-public class CharacterSelectUI : MonoBehaviour
+public class SelectCharacter : MonoBehaviour
 {
     
-    public TMP_Text detailsText;     // Text to show character details
+    public TMP_Text characterName;
+    public TMP_Text characterDescription;
+    public TMP_Text characterQuote;
     public Button continueButton;  // Button to go to next scene
     public Button boyButton;
     public Button girlButton;
 
     private string selectedCharacter;
 
-    void Start()
+    public void Start()
     {
         continueButton.gameObject.SetActive(false); // Hide continue button at start
 
@@ -22,21 +24,25 @@ public class CharacterSelectUI : MonoBehaviour
         continueButton.onClick.AddListener(OnContinueClicked);
     }
 
-    void OnBoyClicked()
+    public void OnBoyClicked()
     {
         selectedCharacter = "Boy";
-        detailsText.text = "Juan Dela Cruz \n\"Tapos na po sir~\" \n\n\n\n CHARACTER DETAILS===============.";
+        characterName.text = "Juan Dela Cruz";
+        characterDescription.text = "* Short black hair, brown eyes\r\n* Wears a T-shirt, shorts, and sneakers\r\n* Slim and energetic";
+        characterQuote.text = "\"Tapos na po sir~\"";
         continueButton.gameObject.SetActive(true); // Show Continue button
     }
 
-    void OnGirlClicked()
+    public void OnGirlClicked()
     {
         selectedCharacter = "Girl";
-        detailsText.text = "Juania Dela Cruz \n\"Ganyan ba dapat sinasabe madaem~\" \n\n\n\n CHARACTER DETAILS===============.";
+        characterName.text = "Juania Dela Cruz";
+        characterDescription.text = "* Long brown hair, brown eyes\r\n* Wears a casual dress or T-shirt and skirt\r\n* Petite and cheerful";
+        characterQuote.text = "\"Ganyan ba dapat sinasabe madaem~\"";
         continueButton.gameObject.SetActive(true); // Show Continue button
     }
 
-    void OnContinueClicked()
+    public void OnContinueClicked()
     {
         PlayerPrefs.SetString("SelectedCharacter", selectedCharacter); // Save selection
         UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex + 1);
