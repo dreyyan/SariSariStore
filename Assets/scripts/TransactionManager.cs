@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
@@ -19,8 +19,15 @@ public class TransactionManager : MonoBehaviour
 
     void Awake()
     {
-        if (Instance == null) Instance = this;
-        else Destroy(gameObject);
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject); // keep it alive between scenes
+        }
+        else
+        {
+            Destroy(gameObject); // prevent duplicates
+        }
     }
 
     /* METHODS: Items */
@@ -55,7 +62,7 @@ public class TransactionManager : MonoBehaviour
     /* METHODS: Transactions */
     public void UpdateMoneyToReturnDisplay()
     {
-        moneyToReturnText.text = moneyToReturn.ToString();
+        moneyToReturnText.text = $"₱{moneyToReturn:N0}";
     }
 
     public void StartTransaction()
@@ -68,27 +75,30 @@ public class TransactionManager : MonoBehaviour
     public void EndTransaction()
     {
         // Update player's coins and profit
-        PlayerManager.Instance.AddCoins(receivedMoney - moneyToReturn);
-        PlayerManager.Instance.Profit += receivedMoney - moneyToReturn;
-        PlayerManager.Instance.DailyProfit += receivedMoney - moneyToReturn;
+        //PlayerManager.Instance.AddCoins(receivedMoney - moneyToReturn);
+        //PlayerManager.Instance.Profit += receivedMoney - moneyToReturn;
+        //PlayerManager.Instance.DailyProfit += receivedMoney - moneyToReturn;
 
         // Clear desk for next customer
         ClearDesk();
         receivedMoney = 0;
         moneyToReturn = 0;
         UpdateMoneyToReturnDisplay();
+        AudioManager.Instance.PlayPurchaseCompleteSound();
     }
 
     public void ReceiveMoney(int amount)
     {
         receivedMoney += amount;
         UpdateMoneyToReturnDisplay();
+        AudioManager.Instance.PlayMoneyPressSound();
     }
 
     public void ReturnMoney(int amount)
     {
         moneyToReturn += amount;
         UpdateMoneyToReturnDisplay();
+        AudioManager.Instance.PlayMoneyPressSound();
     }
 
     // Calculate total price of items
