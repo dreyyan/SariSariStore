@@ -9,7 +9,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -116,10 +116,10 @@ TextureImporter:
       name: calculator_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 413
-        height: 500
+        x: 150
+        y: 78
+        width: 970
+        height: 1306
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

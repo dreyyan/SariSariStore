@@ -3,64 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\TransactionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\TransactionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\CharacterManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\CharacterManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\SelectCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\SelectCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\MouseClickSFX.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\MouseClickSFX.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\RefManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\RefManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\GameAreaNavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\GameAreaNavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\PlayerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\PlayerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ScoreSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\ScoreSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ButtonSFX.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\ButtonSFX.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\VolumeSlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\VolumeSlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\StoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\StoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\ItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ContinueButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\ContinueButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ReturnButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\ReturnButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\TransactionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\TransactionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,193 +35,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TransactionManager.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\TransactionManager.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\TransactionManager.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\TransactionManager.cs",
-              "RelativeToolTip": "Assets\\scripts\\TransactionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T12:45:20.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameAreaNavigation.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\GameAreaNavigation.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\GameAreaNavigation.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\GameAreaNavigation.cs",
-              "RelativeToolTip": "Assets\\scripts\\GameAreaNavigation.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowDwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T12:05:37.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ScoreSystem.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ScoreSystem.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ScoreSystem.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ScoreSystem.cs",
-              "RelativeToolTip": "Assets\\scripts\\ScoreSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:07:23.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ItemData.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ItemData.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ItemData.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ItemData.cs",
-              "RelativeToolTip": "Assets\\scripts\\ItemData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:06:48.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\Customer.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Customer.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\Customer.cs",
-              "RelativeToolTip": "Assets\\scripts\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:06:19.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerManager.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\PlayerManager.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerManager.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\PlayerManager.cs",
-              "RelativeToolTip": "Assets\\scripts\\PlayerManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:05:38.551Z",
+              "WhenOpened": "2025-08-26T00:17:38.53Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SelectCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\SelectCharacter.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\SelectCharacter.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\SelectCharacter.cs",
-              "RelativeToolTip": "Assets\\scripts\\SelectCharacter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T06:56:55.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T12:55:09.115Z",
+              "WhenOpened": "2025-08-26T00:45:41.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\MainMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\MainMenu.cs",
-              "RelativeToolTip": "Assets\\scripts\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Title": "TransactionManager.cs",
+              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\TransactionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\TransactionManager.cs",
+              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\TransactionManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\TransactionManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T03:22:22.345Z",
+              "WhenOpened": "2025-08-26T00:22:52.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefManager.cs",
+              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\RefManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\RefManager.cs",
+              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\RefManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\RefManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:31:15.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CharacterManager.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\CharacterManager.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\CharacterManager.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\CharacterManager.cs",
-              "RelativeToolTip": "Assets\\scripts\\CharacterManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Title": "MouseClickSFX.cs",
+              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\MouseClickSFX.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MouseClickSFX.cs",
+              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\MouseClickSFX.cs",
+              "RelativeToolTip": "Assets\\scripts\\MouseClickSFX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T06:52:41.042Z",
+              "WhenOpened": "2025-08-26T01:00:53.944Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ButtonSFX.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ButtonSFX.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ButtonSFX.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ButtonSFX.cs",
-              "RelativeToolTip": "Assets\\scripts\\ButtonSFX.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:59:50.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StoreManager.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\StoreManager.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\StoreManager.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\StoreManager.cs",
-              "RelativeToolTip": "Assets\\scripts\\StoreManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:07:08.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "VolumeSlider.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\VolumeSlider.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\VolumeSlider.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\VolumeSlider.cs",
-              "RelativeToolTip": "Assets\\scripts\\VolumeSlider.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T04:36:36.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReturnButton.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ReturnButton.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ReturnButton.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ReturnButton.cs",
-              "RelativeToolTip": "Assets\\scripts\\ReturnButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T03:35:53.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ContinueButton.cs",
-              "DocumentMoniker": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ContinueButton.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ContinueButton.cs",
-              "ToolTip": "C:\\Users\\dreyyan\\Downloads\\BantayBaligyaSariSariStore\\Assets\\scripts\\ContinueButton.cs",
-              "RelativeToolTip": "Assets\\scripts\\ContinueButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:02:07.244Z"
             }
           ]
         }
