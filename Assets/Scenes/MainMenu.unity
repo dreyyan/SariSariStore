@@ -3090,7 +3090,7 @@ MonoBehaviour:
   volumeSlider: {fileID: 1321580659}
   volumeText: {fileID: 1640920169}
   audioSource: {fileID: 1666630725}
-  sfxPreview: {fileID: 8300000, guid: 0915a1e85493e794d8e72ed4e00faadc, type: 3}
+  sfxPreview: {fileID: 0}
 --- !u!1 &1419416570
 GameObject:
   m_ObjectHideFlags: 0

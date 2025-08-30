@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3db11542bf08af346b2573e476b1b3b5, type: 3}
+  m_Name: pancit-canton
+  m_EditorClassIdentifier: 
+  ItemName: Pancit Canton
+  Price: 14
+  Icon: {fileID: -7406987747876102113, guid: da818d22305b21a41b97c12f8d4efe2e, type: 3}
+  IsUnlocked: 1

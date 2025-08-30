@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: da818d22305b21a41b97c12f8d4efe2e
+guid: 5a70cce358f439947ac441a8d2626ad4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7406987747876102113
-    second: product-pancit-canton_0
+      213: 1625043983665115602
+    second: pause-button_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: product-pancit-canton_0
+      name: pause-button_0
       rect:
         serializedVersion: 2
-        x: 214
-        y: 386
-        width: 860
-        height: 548
+        x: 0
+        y: 0
+        width: 1600
+        height: 1600
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f10ac2023e7153990800000000000000
-      internalID: -7406987747876102113
+      spriteID: 2d1bebea4e05d8610800000000000000
+      internalID: 1625043983665115602
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      product-pancit-canton_0: -7406987747876102113
+      pause-button_0: 1625043983665115602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
